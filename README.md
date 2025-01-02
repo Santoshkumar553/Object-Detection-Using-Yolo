@@ -1,7 +1,7 @@
 # Object-Detection-Using-Yolo
 
 To run the project you need to install some libraries like
-1. Open Cv    pip install opencv-python
+1. Open CV    pip install opencv-python
 2. ultralytics from Yolo  --pip install ultralytics
 3. Torch Vision Latest Version  --pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
