@@ -21,3 +21,4 @@ like:
 model = YOLO(r'D:\Project file\Object Detection Using Yolo\Object Detection using Yolo Model\model.pt')
 
 ~Thank you
+Santosh Kumar
